@@ -25,7 +25,7 @@ export default class Submit extends React.Component{
         $.ajax({
             type: 'GET',
             dataType: 'json',
-            url: '/api/userInfor.json',
+            url: 'https://github.com/guanya/disabuse-shop/api/userInfor.json',
             success: ((data) => {
                 this.setState({
                     userInfor: data.adderss,

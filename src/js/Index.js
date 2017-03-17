@@ -21,7 +21,7 @@ export default class Index extends React.Component{
     }
 
     getLoadInfor() {
-        let _url = '/api/loadInfor.json';
+        let _url = 'https://github.com/guanya/disabuse-shop/api/loadInfor.json';
         $.ajax({
             type:'GET',
             dataType:'json',
@@ -39,7 +39,7 @@ export default class Index extends React.Component{
         })
     }
     getGoodsList() {
-        let _url = '/api/goodsList.json';
+        let _url = 'https://github.com/guanya/disabuse-shop/api/goodsList.json';
         $.ajax({
             type: 'GET',
             url: _url,

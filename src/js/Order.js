@@ -25,7 +25,7 @@ export default class Order extends React.Component{
     }
 
     getOrder() {
-        let _url = '/api/order.json';
+        let _url = 'https://github.com/guanya/disabuse-shop/api/order.json';
         $.ajax({
             type: 'GET',
             url: _url,

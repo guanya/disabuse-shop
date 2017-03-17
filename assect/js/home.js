@@ -21933,7 +21933,7 @@
 	        value: function getLoadInfor() {
 	            var _this2 = this;
 	
-	            var _url = '/api/loadInfor.json';
+	            var _url = 'https://github.com/guanya/disabuse-shop/api/loadInfor.json';
 	            _jquery2.default.ajax({
 	                type: 'GET',
 	                dataType: 'json',
@@ -21955,7 +21955,7 @@
 	        value: function getGoodsList() {
 	            var _this3 = this;
 	
-	            var _url = '/api/goodsList.json';
+	            var _url = 'https://github.com/guanya/disabuse-shop/api/goodsList.json';
 	            _jquery2.default.ajax({
 	                type: 'GET',
 	                url: _url,
@@ -32848,7 +32848,7 @@
 	            _jquery2.default.ajax({
 	                type: 'GET',
 	                dataType: 'json',
-	                url: '/api/userInfor.json',
+	                url: 'https://github.com/guanya/disabuse-shop/api/userInfor.json',
 	                success: function success(data) {
 	                    _this2.setState({
 	                        userInfor: data.adderss,
@@ -33253,7 +33253,7 @@
 	        value: function getOrder() {
 	            var _this2 = this;
 	
-	            var _url = '/api/order.json';
+	            var _url = 'https://github.com/guanya/disabuse-shop/api/order.json';
 	            _jquery2.default.ajax({
 	                type: 'GET',
 	                url: _url,
