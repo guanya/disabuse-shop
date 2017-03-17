@@ -1,0 +1,208 @@
+{
+    "list":[
+        {   
+            "id": "1",
+            "name": "美宝莲雾感哑光系列口红",
+            "imgurl": [ "/src/img/1.jpg", "/src/img/2.jpg", "/src/img/3.jpg", "/src/img/4.jpg", "/src/img/5.jpg"],
+            "spectList":[
+                {
+                    "nid": "商品库存id",
+                    "spect":"商品规格1" ,
+                    "price": "99",
+                    "quantity": "3"
+                }
+            ]
+
+        },
+        {
+            "id": "2",
+            "name": "小黑裙女士香水持久留香清新",
+            "imgurl": ["/src/img/6.jpg","/src/img/7.jpg","/src/img/8.jpg","/src/img/9.jpg","/src/img/10.jpg"],
+            "spectList":[
+                {
+                    "nid": "商品库存id1",
+                    "spect":"50ML" ,
+                    "price": "458",
+                    "quantity": "10"
+                },
+                {
+                    "nid": "商品库存id2",
+                    "spect":"10ML" ,
+                    "price": "98",
+                    "quantity": "1"
+                },
+                {
+                    "nid": "商品库存id2",
+                    "spect":"20ML" ,
+                    "price": "198",
+                    "quantity": "2"
+                },
+                {
+                    "nid": "商品库存id2",
+                    "spect":"30ML" ,
+                    "price": "298",
+                    "quantity": "0"
+                },
+                {
+                    "nid": "商品库存id2",
+                    "spect":"40ML" ,
+                    "price": "398",
+                    "quantity": "4"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "name": "兰蔻广角羽扇防晕染天鹅颈睫毛膏",
+            "imgurl": ["/src/img/11.jpg","/src/img/12.jpg","/src/img/13.jpg","/src/img/14.jpg","/src/img/15.jpg"],
+            "spectList":[
+                {
+                    "nid": "商品库存id1",
+                    "spect":"迷你" ,
+                    "price": "198",
+                    "quantity": "50"
+                },
+                {
+                    "nid": "商品库存id2",
+                    "spect":"限量版" ,
+                    "price": "360",
+                    "quantity": "7"
+                }
+            ]
+        },
+        {   
+            "id": "4",
+            "name": "卡姿兰眉笔防水不晕染",
+            "imgurl": ["/src/img/16.jpg","/src/img/17.jpg","/src/img/18.jpg","/src/img/19.jpg","/src/img/20.jpg"],
+            "spectList":[
+                {
+                    "nid": "商品库存id",
+                    "spect":"灰色" ,
+                    "price": "45",
+                    "quantity": "260"
+                },
+                {
+                    "nid": "商品库存id",
+                    "spect":"棕色" ,
+                    "price": "45",
+                    "quantity": "180"
+                }
+            ]
+
+        },
+        {
+            "id": "5",
+            "name": "3ce秋冬系列指甲油",
+            "imgurl": ["/src/img/21.jpg","/src/img/22.jpg","/src/img/23.jpg","/src/img/24.jpg","/src/img/25.jpg"],
+            "spectList":[
+                {
+                    "nid": "商品库存id1",
+                    "spect":"红棕色" ,
+                    "price": "46",
+                    "quantity": "80"
+                },
+                {
+                    "nid": "商品库存id2",
+                    "spect":"粉棕色" ,
+                    "price": "46",
+                    "quantity": "-2"
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "name": "蜜丝佛陀气垫BB霜",
+            "imgurl": ["/src/img/26.jpg","/src/img/27.jpg","/src/img/28.jpg","/src/img/29.jpg"],
+            "spectList":[
+                {
+                    "nid": "商品库存id1",
+                    "spect":"象牙白" ,
+                    "price": "178",
+                    "quantity": "8"
+                },
+                {
+                    "nid": "商品库存id2",
+                    "spect":"自然色" ,
+                    "price": "178",
+                    "quantity": "7"
+                }
+            ]
+        },{   
+            "id": "7",
+            "name": "巧迪尚惠四色眼影盘经典大地色",
+            "imgurl": ["/src/img/30.jpg","/src/img/31.jpg","/src/img/32.jpg","/src/img/33.jpg","/src/img/34.jpg"],
+            "spectList":[
+                {
+                    "nid": "商品库存id",
+                    "spect":"大地色" ,
+                    "price": "35",
+                    "quantity": "550"
+                },
+                {
+                    "nid": "商品库存id",
+                    "spect":"粉棕色" ,
+                    "price": "35",
+                    "quantity": "6"
+                }
+            ]
+
+        },
+        {
+            "id": "8",
+            "name": "凯芙兰甜幻柔美颜值腮红",
+            "imgurl": ["/src/img/35.jpg","/src/img/36.jpg","/src/img/37.jpg","/src/img/38.jpg","/src/img/39.jpg"],
+            "spectList":[
+                {
+                    "nid": "商品库存id1",
+                    "spect":"珊瑚红" ,
+                    "price": "58",
+                    "quantity": "7"
+                },
+                {
+                    "nid": "商品库存id2",
+                    "spect":"热恋红" ,
+                    "price": "58",
+                    "quantity": "9"
+                }
+            ]
+        },
+        {
+            "id": "9",
+            "name": "爱丽小屋修容棒",
+            "imgurl": ["/src/img/40.jpg","/src/img/41.jpg","/src/img/42.jpg","/src/img/43.jpg"],
+            "spectList":[
+                {
+                    "nid": "商品库存id1",
+                    "spect":"浅棕色" ,
+                    "price": "44",
+                    "quantity": "10"
+                },
+                {
+                    "nid": "商品库存id2",
+                    "spect":"深棕色" ,
+                    "price": "44",
+                    "quantity": "6"
+                }
+            ]
+        },
+       {
+            "id": "10",
+            "name": "医美博黑钻眼线液笔",
+            "imgurl": ["/src/img/44.jpg","/src/img/45.jpg","/src/img/46.jpg","/src/img/47.jpg","/src/img/48.jpg"],
+            "spectList":[
+                {
+                    "nid": "商品库存id1",
+                    "spect":"黑色" ,
+                    "price": "108",
+                    "quantity": "7"
+                },
+                {
+                    "nid": "商品库存id2",
+                    "spect":"棕色" ,
+                    "price": "108",
+                    "quantity": "9"
+                }
+            ]
+        }
+    ]
+}

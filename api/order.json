@@ -1,0 +1,60 @@
+{
+    "datalist":[
+        { 
+            "ordernum": "10000123456",
+            "name": "眼影",
+            "spect":"黑色" ,
+            "price": "99.9",
+            "number": "1",
+            "amount": "99.9",
+            "imgurl": "/src/img/30.jpg",
+            "adderss": {
+                "name":"关老大",
+                "mobile": "18812345678",
+                "orderAdderss": "黑龙江省 哈尔滨市 南岗区 学府路52号"
+            }
+        },
+        { 
+            "ordernum": "10000123457",
+            "name": "腮红",
+            "spect":"珊瑚红" ,
+            "price": "98",
+            "number": "2",
+            "amount": "196",
+            "imgurl": "/src/img/35.jpg",
+            "adderss": {
+                "name":"安最小",
+                "mobile": "18612345678",
+                "orderAdderss": "黑龙江省 哈尔滨市 南岗区 学府路55号"
+            }
+        },
+        { 
+            "ordernum": "10000123458",
+            "name": "香水",
+            "spect":"50ML" ,
+            "price": "498",
+            "number": "1",
+            "amount": "498",
+            "imgurl": "/src/img/6.jpg",
+            "adderss": {
+                "name":"冯三三",
+                "mobile": "18712345678",
+                "orderAdderss": "黑龙江省 哈尔滨市 南岗区 学府路54号"
+            }
+        },
+        { 
+            "ordernum": "10000123458",
+            "name": "指甲油",
+            "spect":"红棕色" ,
+            "price": "45",
+            "number": "1",
+            "amount": "45",
+            "imgurl": "/src/img/21.jpg",
+            "adderss": {
+                "name":"王真二",
+                "mobile": "18812345679",
+                "orderAdderss": "黑龙江省 哈尔滨市 南岗区 学府路55号"
+            }
+        }
+    ]
+}
