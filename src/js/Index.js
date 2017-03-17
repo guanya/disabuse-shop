@@ -21,7 +21,7 @@ export default class Index extends React.Component{
     }
 
     getLoadInfor() {
-        let _url = 'https://github.com/guanya/disabuse-shop/api/loadInfor.json';
+        let _url = 'https://github.com/guanya/disabuse-shop/tree/gh-pages/api/loadInfor.json';
         $.ajax({
             type:'GET',
             dataType:'json',
