@@ -21,7 +21,7 @@ export default class Index extends React.Component{
     }
 
     getLoadInfor() {
-        let _url = 'https://github.com/guanya/disabuse-shop/tree/gh-pages/api/loadInfor.json';
+        let _url = 'https://github.com/guanya/api/loadInfor.json';
         $.ajax({
             type:'GET',
             dataType:'json',
@@ -39,7 +39,7 @@ export default class Index extends React.Component{
         })
     }
     getGoodsList() {
-        let _url = 'https://github.com/guanya/disabuse-shop/api/goodsList.json';
+        let _url = 'https://github.com/guanya/api/goodsList.json';
         $.ajax({
             type: 'GET',
             url: _url,
@@ -63,7 +63,7 @@ export default class Index extends React.Component{
    })
     }
     toIndex() {
-        let url = '/order.html?name=' + encodeURIComponent(this.state.loadInfor.name);
+        let url = 'https://github.com/guanya/order.html?name=' + encodeURIComponent(this.state.loadInfor.name);
         location.href = url;
     }
 

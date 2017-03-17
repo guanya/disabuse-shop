@@ -25,7 +25,7 @@ export default class Submit extends React.Component{
         $.ajax({
             type: 'GET',
             dataType: 'json',
-            url: 'https://github.com/guanya/disabuse-shop/tree/gh-pages/api/userInfor.json',
+            url: 'https://github.com/guanya/api/userInfor.json',
             success: ((data) => {
                 this.setState({
                     userInfor: data.adderss,
@@ -76,7 +76,7 @@ export default class Submit extends React.Component{
         })
     }
     toindex() {
-        let _url = '/index.html';
+        let _url = 'https://github.com/guanya/index.html';
         location.href = _url;
     }
     render() {

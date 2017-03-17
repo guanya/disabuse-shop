@@ -25,7 +25,7 @@ export default class Order extends React.Component{
     }
 
     getOrder() {
-        let _url = 'https://github.com/guanya/disabuse-shop/tree/gh-pages/api/order.json';
+        let _url = 'https://github.com/guanya/api/order.json';
         $.ajax({
             type: 'GET',
             url: _url,
@@ -49,7 +49,7 @@ export default class Order extends React.Component{
         })
     }
     toIndex() {
-        let url = '/index.html';
+        let url = 'https://github.com/guanya/index.html';
         location.href = url;
     }
 
